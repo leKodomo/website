@@ -1,0 +1,30 @@
+footer{
+    color: rgb(119, 119, 119);
+    background-color: rgb(34, 34, 34);
+}
+
+.footer_copy{
+    background-color: rgb(7, 7, 7);
+}
+
+main{
+    padding: 3rem;
+}
+
+footer{
+    padding: 3rem;
+}
+
+#portfolio_grid{
+    width: 100%;
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.portfolio_img{
+
+}
+
+.portfolio_header{
+    grid-template-rows: 1/3;
+}
